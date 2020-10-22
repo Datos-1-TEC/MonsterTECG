@@ -1,6 +1,6 @@
 package UI;
 
-import cr.ac.itcr.Chat.*;
+import Chat.*;
 
 import javax.swing.*;
 import java.awt.*;
